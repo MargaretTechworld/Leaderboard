@@ -45,6 +45,7 @@ To Do List.
 
   1. Leaderboard Basic Projet setup
   2. Send and receive data from API.
+  3. Final touches
   
   
 
@@ -98,7 +99,7 @@ npm start
 ## 🔭 Future Features <a name="future-features"></a>
 
  
-1. Final touches
+1. Add more styles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
