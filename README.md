@@ -44,6 +44,7 @@ To Do List.
 ### Key Features <a name="key-features"></a>
 
   1. Leaderboard Basic Projet setup
+  2. Send and receive data from API.
   
   
 
@@ -96,8 +97,8 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-1.  Send and receive data from API.
-2. Final touches
+ 
+1. Final touches
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
